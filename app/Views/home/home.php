@@ -9,7 +9,7 @@
     dialog_support.init("a.modal-dlg");
 </script>
 
-<h3 class="text-center"><?= lang('Common.welcome_message') ?></h3>
+<h3 class="text-center">Welcome to Ramchemical POS Dashboard!</h3>
 
 <div id="home_module_list">
     <?php
